@@ -1,0 +1,35 @@
+﻿== ACHIVEMENTSERINO! ==
+✓ 
+
+Automatische Farmen:
+    - Weed
+    - Melonen/kürbis
+    - Zuckerstangen
+    - Hühner/-eier
+    - Kuh
+    - Pig
+    - Wolle
+Grinder von:
+    - Spinne
+    - Skeleton
+    - Cavespider
+    - Zombie
+    - Enderman
+    - Hexe
+                          
+Bauen:
+    - Achterbahn
+    - Dirthouse
+    - Untergrundvilla
+    - Rießen Baumhaus
+    - Wasserpark
+    - Stadtkirche
+    - Wrench
+    - Versailles
+
+Adventure:
+    - Drachen besiegen
+    - Wither besiegen
+    - Unterwassertempel bezwingen
+
+
