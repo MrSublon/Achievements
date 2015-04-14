@@ -9,6 +9,7 @@ Automatische Farmen:
     - Kuh
     - Pig
     - Wolle
+
 Grinder von:
     - Spinne
     - Skeleton
@@ -16,6 +17,10 @@ Grinder von:
     - Zombie
     - Enderman
     - Hexe
+    - Slime
+    - Golem
+    - Blaze 420
+    - Pig Zombie
                           
 Bauen:
     - Achterbahn
@@ -26,6 +31,8 @@ Bauen:
     - Stadtkirche
     - Wrench
     - Versailles
+    - U-Bahn-System
+    - Flughafen + Flugzeug
 
 Adventure:
     - Drachen besiegen
