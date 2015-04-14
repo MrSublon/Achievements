@@ -9,13 +9,18 @@ Automatische Farmen:
     - Kuh
     - Pig
     - Wolle
+    - 
+
 Grinder von:
     - Spinne
     - Skeleton
     - Cavespider
     - Zombie
     - Enderman
-    - Hexe
+    - Hexe (<- könnte schwer werden)
+    - Golem
+    - Slime
+    - Blaze
                           
 Bauen:
     - Achterbahn
@@ -26,6 +31,10 @@ Bauen:
     - Stadtkirche
     - Wrench
     - Versailles
+    - Königsschloss
+    - Miniflughäfen + Transportflugzeuge
+    - U-Bahn-System 
+    - Cinema
 
 Adventure:
     - Drachen besiegen
